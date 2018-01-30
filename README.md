@@ -6,14 +6,10 @@
 - "Want to know more?" href
 - If cookie is set does not display info anymore
 
-------------------
-
 ## REQUIRES
 - Bootstrap 3.0 / 4.0
 - jQuery 
-- [js.cookie - link](https://github.com/js-cookie/js-cookie)
-
-------------------
+- [js-cookie - link](https://github.com/js-cookie/js-cookie)
 
 ## IMAGES
 - [Cookie Monster](https://mashable.com/2015/07/01/cookie-monster-siri/#HXNJ6h_ndsqP)
