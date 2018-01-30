@@ -11,7 +11,7 @@
 ## REQUIRES
 - Bootstrap 3.0 / 4.0
 - jQuery 
-- js.cookie
+- [js.cookie - link](https://github.com/js-cookie/js-cookie)
 
 ------------------
 
